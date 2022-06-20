@@ -1,0 +1,8 @@
+﻿Start Proces Execution at: 06/20/2022 17:08:06
+Reading Exxcel file Start at: 06/20/2022 17:08:06
+Reading Exxcel file End at: 06/20/2022 17:08:08
+Open Browser at: 06/20/2022 17:08:08
+For Each start at: 06/20/2022 17:08:11
+For Each End at: 06/20/2022 17:09:07
+Updatting Info in Excel File Start at: 06/20/2022 17:09:07
+Updatting Info in Excel File End at: 06/20/2022 17:09:09
